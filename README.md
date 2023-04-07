@@ -1,13 +1,14 @@
 # dvwa
 Set Up dvwa in minikube
+
 Для выполнения задачи нужно установить: 
 - minikube 
 - terraform
 
 Команды для поднятия dvwa на minukube: 
-  - minikube start
-  - terraform init
-  - terrafrom apply
+    - minikube start
+    - terraform init
+    - terrafrom apply
 
 DVWA pod: 
 ![image](https://user-images.githubusercontent.com/99540115/230555466-80425581-9b7e-4c42-957c-f5b60bee6db7.png)
